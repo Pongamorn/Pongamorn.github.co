@@ -1,0 +1,76 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.main-menu-color {
+    background-color: #023d28;
+    color: white;
+    border: none;
+}
+.text-color {
+    color: #023d28;
+}
+.btn-add-to-cart {
+    border: 1px solid #023d28;
+    border-radius: 25px;
+    color: #023d28;
+}
+.btn-add-to-cart-active {
+    border: 1px solid #023d28;
+    background-color: #023d28;
+    border-radius: 25px;
+    color: white;
+}
+.form-select:focus {
+    border-color: #86b7fe;
+    outline: 0;
+    box-shadow: none;
+}
+.form-select {
+    background-image: url("../img/down.png");
+}
+.text-menu-color {
+    color: black;
+}
+.text-menu-color:hover {
+    color: #023d28;
+}
+.nav-footer li a {
+    color: white !important;
+}
+.color1 {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background: rgb(255,118,89);
+    background: linear-gradient(180deg, rgba(255,118,89,1) 50%, rgba(255,187,187,1) 50%);
+}
+.color2 {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background: rgb(73,69,69);
+    background: linear-gradient(180deg, rgba(73,69,69,1) 50%, rgba(221,221,221,1) 50%);
+}
+.color3 {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background: rgb(0,119,82);
+    background: linear-gradient(180deg, rgba(0,119,82,1) 50%, rgba(255,242,187,1) 50%);
+}
+.color4 {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background: rgb(210,210,210);
+    background: linear-gradient(180deg, rgba(210,210,210,1) 50%, rgba(171,171,171,1) 50%);
+}
+.color5 {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background: rgb(0,85,128);
+    background: linear-gradient(180deg, rgba(0,85,128,1) 50%, rgba(171,171,171,1) 50%);
+}
